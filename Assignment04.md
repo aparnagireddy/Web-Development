@@ -1,5 +1,7 @@
-Assignment 04
-Name: Aparna Gireddy
+Assignment 04  
+
+Name: Aparna Gireddy  
+
 Course: Web Development
 
 
@@ -11,7 +13,6 @@ Course: Web Development
  **N**ode.js
 *a client-side JavaScript framework. Node(.js) - the premier JavaScript web server.*
 
-*Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications.*
 
 
 **MEAN stack :** [^2]
